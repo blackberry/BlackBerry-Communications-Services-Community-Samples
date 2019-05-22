@@ -1,0 +1,15 @@
+{
+  "name": "threadsensoradmin",
+  "version": "1.0.0",
+  "description": "Admin console to collect and display data from the Thread sensors. Also used to configure Thread sensors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Sohm",
+  "dependencies": {
+    "express": "^4.16.4",
+    "marko": "^4.14.0",
+    "sqlite3": "^4.0.4"
+  }
+}
