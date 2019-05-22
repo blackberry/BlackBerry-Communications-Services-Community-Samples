@@ -1,4 +1,4 @@
-\ThreadSensorCollector
+ThreadSensorCollector
 This sample is 1 of 3 that make up a solution that demonstrates the use of Android Things, Thread low power networking and the BlackBerry
 Spark Communication Services.  For an overview of this solution refer to the following post on the BlackBerry Developer Blog:
 https://devblog.blackberry.com/2019/05/securing-the-edge-of-a-thread-network-using-blackberry-spark-communications-services
